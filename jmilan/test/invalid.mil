@@ -1,0 +1,4 @@
+BEGIN
+  n := ;
+  WRITE();
+END
